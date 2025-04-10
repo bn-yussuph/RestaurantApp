@@ -1,7 +1,8 @@
 import { connect, ConnectOptions } from "mongoose";
+const MONGODB_URL = "mongodb://localhost:27017";
 
 export const dbConnect = () => {
-    connect(process.env.MONGODB_URL!).then(
+    connect(MONGODB_URL).then(
         () => {
             console.log("Database connected successfully");
         },

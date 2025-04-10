@@ -15,7 +15,7 @@ export class SearchComponent {
   defaultRoute = '/';
 
   @Input()
-  placeholder = 'Search Food Mine!';
+  placeholder = 'Search RestaurantApp!';
 
   searchTerm = '';
 
