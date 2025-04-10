@@ -25,12 +25,12 @@ RestaurantApp is an application for food ordering that helps food consumers to o
 
 ### Search and order for food
 
-![Search Interface](./frontend/src/assets/screenshots/screenshot_1.png)
+![Search Interface](./frontend/src/assets/screenshots/Screenshot_1.png)
 _Search through available dishes_
 
 ### Order a given dish
 
-![ordering page](./frontend/src/assets/screenshots/screenshot_2.png)
+![ordering page](./frontend/src/assets/screenshots/Screenshot_2.png)
 _Detailed environmental impact breakdown of selected food items_
 
 
